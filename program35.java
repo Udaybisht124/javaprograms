@@ -5,10 +5,10 @@ import java.util.Scanner;
        
         Scanner scanner = new Scanner(System.in);
 float pi= 3.14f;
-        System.out.println("Enter the radius of the prism:");
+        System.out.println("Enter the radius of the Cylinder:");
         float radius = scanner.nextFloat();
 
-        System.out.println("Enter the width of the prism:");
+        System.out.println("Enter the height of the Cylinder:");
     float height = scanner.nextFloat();
 
     
